@@ -12,6 +12,7 @@ const allowedOrigins = [
   'http://127.0.0.1:5000',
   'https://bellskeet.netlify.app',
   'https://porost.netlify.app'
+  'https://beamish-cuchufli-d70463.netlify.app'
    // add all your trusted frontends here
 ];
 
